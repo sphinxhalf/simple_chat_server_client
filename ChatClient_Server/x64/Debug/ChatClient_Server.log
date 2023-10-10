@@ -1,0 +1,3 @@
+﻿  ChatClient_Server.cpp
+F:\A_ONEDRIVE\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\B_Nam_4\NT137\ChatClient_Server\ChatClient_Server\ChatClient_Server.cpp(102,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ChatClient_Server.vcxproj -> F:\A_ONEDRIVE\OneDrive - Trường ĐH CNTT - University of Information Technology\Tài liệu\B_Nam_4\NT137\ChatClient_Server\x64\Debug\ChatClient_Server.exe
